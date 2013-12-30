@@ -1,0 +1,22 @@
+{
+  "name": "common-promises",
+  "version": "0.0.2",
+  "description": "Common promise functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "q",
+    "promise"
+  ],
+  "author": "Greg Wiley <aztec.rex@jammm.com>",
+  "licenses": [
+      {
+          "type": "Apache License, Version 2.0",
+          "url" : "http://www.apache.org/licenses/LICENSE-2.0"
+      }
+  ]
+}
+
