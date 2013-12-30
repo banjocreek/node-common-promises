@@ -4,9 +4,12 @@
   "description": "Common promise functions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository":  {
+      "type": "git",
+      "url": "https://github.com/aztecrex/node-common-promises.git"
+  },
   "keywords": [
     "q",
     "promise"
