@@ -1,6 +1,6 @@
 {
   "name": "common-promises",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Common promise functions",
   "main": "index.js",
   "scripts": {
