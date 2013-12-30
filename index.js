@@ -28,7 +28,7 @@ exports.nop = function (v) {
  */
 exports.createCapture = function () {
     var captured = false,
-        value = undefined;
+        value = null;
     return {
         /*
          * store the promise value for later retrieval. Can only be used once.
