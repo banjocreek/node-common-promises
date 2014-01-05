@@ -1,6 +1,6 @@
 {
   "name": "common-promises",
-  "version": "0.0.4",
+  "version": "0.0-snap",
   "description": "Common promise functions",
   "main": "index.js",
   "scripts": {
